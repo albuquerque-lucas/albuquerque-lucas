@@ -36,6 +36,6 @@ If you have any questions, feedback, or collaboration opportunities, please don'
 
 <center>
 
-# Thank you for visiting and happy coding!
+# Thanks for visiting and happy coding!
 
 </center>
