@@ -23,12 +23,12 @@ If you have any questions, feedback, or collaboration opportunities, please don'
 
 ### Programming languages, frameworks and databases:
 
--  ![PHP](https://img.shields.io/badge/PHP-7.x-777BB4?style=flat-square&logo=php&logoColor=white)
+-  ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)
 - ![Doctrine ORM](https://img.shields.io/badge/Doctrine%20ORM-2.x-326690?style=flat-square&logo=doctrine&logoColor=white)
 - ![Laravel](https://img.shields.io/badge/Laravel-8.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-14.x-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=flat-square&logo=node.js&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![SCSS/SASS](https://img.shields.io/badge/SCSS/SASS-Latest-CC6699?style=flat-square&logo=sass&logoColor=white)
