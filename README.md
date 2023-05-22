@@ -1,6 +1,8 @@
 ## Welcome to my personal Github!
+<p align="center">
+  ![Hello World](https://media.tenor.com/MEr-JVXz_9QAAAAM/it-karak-itkaraktus.gif)
+</p>
 
-![Hello World](https://media.tenor.com/MEr-JVXz_9QAAAAM/it-karak-itkaraktus.gif)
 
 This repository serves as a showcase of my work, projects, and contributions as a full-stack developer.
 
