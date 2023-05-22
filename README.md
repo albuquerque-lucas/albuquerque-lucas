@@ -23,18 +23,18 @@ If you have any questions, feedback, or collaboration opportunities, please don'
 
 ### Programming languages, frameworks and databases:
 
--  ![PHP](https://img.shields.io/badge/PHP-7.x-777BB4?style=flat-square&logo=php&logoColor=white) PHP
-- ![Doctrine ORM](https://img.shields.io/badge/Doctrine%20ORM-2.x-326690?style=flat-square&logo=doctrine&logoColor=white) Doctrine ORM
-- ![Laravel](https://img.shields.io/badge/Laravel-8.x-FF2D20?style=flat-square&logo=laravel&logoColor=white) Laravel
-- Javascript
-- React.JS
-- Node.JS
-- HTML
-- CSS
-- SCSS / SASS
-- MYSql
-- Jest
-- RTL (React Testing Library)
+-  ![PHP](https://img.shields.io/badge/PHP-7.x-777BB4?style=flat-square&logo=php&logoColor=white)
+- ![Doctrine ORM](https://img.shields.io/badge/Doctrine%20ORM-2.x-326690?style=flat-square&logo=doctrine&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-8.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-14.x-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![SCSS/SASS](https://img.shields.io/badge/SCSS/SASS-Latest-CC6699?style=flat-square&logo=sass&logoColor=white)
+- ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-Latest-E33332?style=flat-square&logo=testing-library&logoColor=white)
+- ![Jest](https://img.shields.io/badge/Jest-Latest-C21325?style=flat-square&logo=jest&logoColor=white)
+- ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-Latest-E33332?style=flat-square&logo=testing-library&logoColor=white)Par
 <!--
 **albuquerque-lucas/albuquerque-lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
