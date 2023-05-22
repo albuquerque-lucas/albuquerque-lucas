@@ -30,7 +30,6 @@ If you have any questions, feedback, or collaboration opportunities, please don'
 - ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![SCSS/SASS](https://img.shields.io/badge/SCSS/SASS-Latest-CC6699?style=flat-square&logo=sass&logoColor=white)
-- ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-Latest-E33332?style=flat-square&logo=testing-library&logoColor=white)
 - ![Jest](https://img.shields.io/badge/Jest-Latest-C21325?style=flat-square&logo=jest&logoColor=white)
 - ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-Latest-E33332?style=flat-square&logo=testing-library&logoColor=white)
 
