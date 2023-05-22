@@ -13,7 +13,11 @@ This repository serves as a showcase of my work, projects, and contributions as 
 
 Feel free to explore the my folders and files to get a deeper understanding of my coding style, problem-solving abilities, and technical knowledge. I am constantly updating and adding new projects to demonstrate my growth and learning journey.
 
-If you have any questions, feedback, or collaboration opportunities, please don't hesitate to reach out.
+If you have any questions, feedback, or collaboration opportunities, please don't hesitate to reach out on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albuquerque012/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lucaslpra@gmail.com)
+
 
 Thank you for visiting and happy coding!
 <!--
