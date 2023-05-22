@@ -1,8 +1,9 @@
-## Welcome to my personal repository!
+## Welcome to my personal Github!
 
 This repository serves as a showcase of my work, projects, and contributions as a full-stack developer. Here you will find a collection of code samples, side projects, and open-source contributions that highlight my skills and expertise.
 
 ### Here you will find some projects I've been working on!
+### Also some code samples, side projects and open-source contributions that highlight my sills.
 
 Feel free to explore the various folders and files to get a deeper understanding of my coding style, problem-solving abilities, and technical knowledge. I am constantly updating and adding new projects to demonstrate my growth and learning journey.
 
