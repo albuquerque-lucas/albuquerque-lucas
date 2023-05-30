@@ -25,7 +25,6 @@ If you have any questions, feedback, or collaboration opportunities, please don'
 - ![Laravel](https://img.shields.io/badge/Laravel-8.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![React.js](https://img.shields.io/badge/React.js-Latest-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=flat-square&logo=node.js&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-Latest-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)
