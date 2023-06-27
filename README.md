@@ -34,7 +34,7 @@ If you have any questions, feedback, or collaboration opportunities, please don'
 - ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-Latest-E33332?style=flat-square&logo=testing-library&logoColor=white)
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerque-lucas&theme=pnedark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerque-lucas&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <center>
