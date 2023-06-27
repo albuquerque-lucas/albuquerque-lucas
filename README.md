@@ -9,8 +9,6 @@ This repository serves as a showcase of my work, projects, and contributions as 
 
 ### Here you will find some projects I've been working on!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerque-lucas)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Also some code samples, side projects and open-source contributions that highlight my sills.
 
 Feel free to explore the my folders and files to get a deeper understanding of my coding style, problem-solving abilities, and technical knowledge. I am constantly updating and adding new projects to demonstrate my growth and learning journey.
@@ -34,6 +32,9 @@ If you have any questions, feedback, or collaboration opportunities, please don'
 - ![SCSS/SASS](https://img.shields.io/badge/SCSS/SASS-Latest-CC6699?style=flat-square&logo=sass&logoColor=white)
 - ![Jest](https://img.shields.io/badge/Jest-Latest-C21325?style=flat-square&logo=jest&logoColor=white)
 - ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-Latest-E33332?style=flat-square&logo=testing-library&logoColor=white)
+
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerque-lucas&theme=pnedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <center>
