@@ -9,6 +9,8 @@ This repository serves as a showcase of my work, projects, and contributions as 
 
 ### Here you will find some projects I've been working on!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerque-lucas)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Also some code samples, side projects and open-source contributions that highlight my sills.
 
 Feel free to explore the my folders and files to get a deeper understanding of my coding style, problem-solving abilities, and technical knowledge. I am constantly updating and adding new projects to demonstrate my growth and learning journey.
