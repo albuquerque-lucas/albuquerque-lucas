@@ -19,8 +19,9 @@ If you have any questions, feedback, or collaboration opportunities, please don'
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lucaslpra@gmail.com)
 
 ### Programming languages, frameworks and databases:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) - ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
--  ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)
+-  ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white) - - 
 - ![Doctrine ORM](https://img.shields.io/badge/Doctrine%20ORM-2.x-326690?style=flat-square&logo=doctrine&logoColor=white)
 - ![Laravel](https://img.shields.io/badge/Laravel-8.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
