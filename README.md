@@ -36,8 +36,6 @@ If you have any questions, feedback, or collaboration opportunities, please don'
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerque-lucas&theme=tokyonight&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=albuquerque-lucas)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <center>
 
