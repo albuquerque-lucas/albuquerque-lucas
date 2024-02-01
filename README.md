@@ -7,7 +7,7 @@
 
 This repository serves as a showcase of my work, projects, and contributions as a full-stack developer.
 
-### Here you will find some projects I've been working on!
+### Here you will find some projects I've been working on.
 
 ### Also some code samples, side projects and open-source contributions that highlight my sills.
 
