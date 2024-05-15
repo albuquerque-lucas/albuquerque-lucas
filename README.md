@@ -21,6 +21,6 @@ Se tiver perguntas, feedbacks ou desejar entrar em contato, fique a vontade:
 
 <center>
 
-# Thanks for visiting and happy coding!
+# Obrigado pela visita!
 
 </center>
