@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! :cat: </h1>
+<h1 align="center"> Olá!  </h1>
 
 
 <p align="center">
