@@ -5,9 +5,9 @@
   <img src="[https://media.tenor.com/MEr-JVXz_9QAAAAM/it-karak-itkaraktus.gif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)"/>
 </p>
 
-Vim aqui só mostrar algumas coisas que eu sei escrever :computer: :rocket:
+To aqui mostrando algumas coisas que eu sei escrever :computer: :rocket:
 
-Se tiver perguntas, feedbacks ou desejar entrar em contato, fique a vontade:
+Para perguntas, feedbacks ou caso deseje entrar em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albuquerque012/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lucaslpra@gmail.com)
