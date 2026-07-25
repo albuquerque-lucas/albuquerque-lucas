@@ -1,36 +1,16 @@
-# Lucas Albuquerque
+# Olá, eu sou o Lucas Albuquerque 👋
 
-Desenvolvedor Full Stack com foco em PHP e Laravel, atuando também com React e TypeScript.
+Sou desenvolvedor Full Stack, trabalhando principalmente com PHP e Laravel no backend e React com TypeScript no frontend.
 
-Trabalho com aplicações web em produção, APIs REST, MySQL, regras de negócio, integrações, filas, jobs, webhooks e processamento assíncrono.
+Atualmente atuo em uma software house, desenvolvendo e mantendo aplicações web, APIs, integrações e sistemas em produção. Também gosto de trabalhar em projetos próprios, experimentar tecnologias e revisitar aplicações antigas para melhorar sua estrutura.
 
-## Projeto em destaque
+Por aqui você vai encontrar projetos pessoais, estudos e algumas ideias que fui desenvolvendo ao longo do tempo.
 
-### MapIQ
+### Tecnologias que mais utilizo
 
-Plataforma multiempresa para criação, revisão, aprovação e geração de relatórios técnicos.
+PHP · Laravel · MySQL · JavaScript · TypeScript · React · Next.js · Docker · Git
 
-Atuei como principal responsável técnico pela integração entre:
+### Links
 
-- SPA em React e TypeScript
-- API REST em Laravel e MySQL
-- Worker FastAPI e WeasyPrint para geração de PDFs
-
-[Aplicação](https://relatorios.mapiq.com.br/login) · [Estudo de caso](https://albuquerque-lucas.github.io/projects/mapiq-drone-inspection-reporting-platform)
-
-## Tecnologias
-
-**Back-end:** PHP, Laravel, Node.js, APIs REST, MySQL  
-**Front-end:** React, TypeScript, JavaScript, Next.js  
-**Infraestrutura e ferramentas:** Docker, AWS, GitHub Actions, Git  
-**Complementares:** Python, FastAPI, WeasyPrint
-
-## Outros projetos
-
-- **Gávio Arquitetura:** aplicação Laravel com site institucional e painel administrativo
-- **Testello:** processamento de arquivos e gestão de fretes com Laravel e React/TypeScript
-- **SafeTodo:** API Django integrada a uma interface React/TypeScript
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/albuquerque012/) · [Portfólio](https://albuquerque-lucas.github.io/)
+- [Portfólio](https://albuquerque-lucas.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/albuquerque012/)
