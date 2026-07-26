@@ -1,16 +1,15 @@
-# Olá, eu sou o Lucas Albuquerque 👋
+# Oi, eu sou o Lucas 👋
 
-Sou desenvolvedor Full Stack, trabalhando principalmente com PHP e Laravel no backend e React com TypeScript no frontend.
+Gosto de entender como as coisas funcionam — e de desmontar um problema até ele parar de parecer um mistério.
 
-Atualmente atuo em uma software house, desenvolvendo e mantendo aplicações web, APIs, integrações e sistemas em produção. Também gosto de trabalhar em projetos próprios, experimentar tecnologias e revisitar aplicações antigas para melhorar sua estrutura.
+Às vezes isso vira código. Às vezes é só uma ideia que começou com “e se...?” e eu resolvi continuar explorando. Por aqui ficam estudos, experimentos e coisas que fui construindo, testando ou simplesmente tentando entender melhor.
 
-Por aqui você vai encontrar projetos pessoais, estudos e algumas ideias que fui desenvolvendo ao longo do tempo.
+Trabalho com desenvolvimento web, principalmente com PHP e Laravel no backend e React com TypeScript no frontend.
 
-### Tecnologias que mais utilizo
+### Algumas ferramentas que costumam aparecer por aqui
 
-PHP · Laravel · MySQL · JavaScript · TypeScript · React · Next.js · Docker · Git
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Links
+### Onde me encontrar
 
-- [Portfólio](https://albuquerque-lucas.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/albuquerque012/)
+[Portfólio](https://albuquerque-lucas.github.io/) · [LinkedIn](https://www.linkedin.com/in/albuquerque012/)
